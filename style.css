@@ -1,0 +1,19 @@
+/* Resume CSS */
+/* Google Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Fuzzy+Bubbles:wght@400;700&display=swap");
+
+/* CSS Starts here */
+h1,
+h2,
+h3 {
+  color: red;
+  font-family: "Fuzzy Bubbles", sans-serif;
+}
+body {
+  background-color: rgb(200, 227, 246);
+}
+p,
+ul,
+table {
+  color: rgb(3, 85, 3);
+}
