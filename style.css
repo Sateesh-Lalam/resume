@@ -3,6 +3,13 @@
 @import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Fuzzy+Bubbles:wght@400;700&display=swap");
 
 /* CSS Starts here */
+
+#header h1,
+#header p {
+  margin: 5px 0px;
+  width: 1000px;
+  text-align: center;
+}
 h1,
 h2,
 h3 {
@@ -10,10 +17,15 @@ h3 {
   font-family: "Fuzzy Bubbles", sans-serif;
 }
 body {
-  background-color: rgb(200, 227, 246);
+  background-color: rgb(199, 220, 236);
+  padding: 10px 50px;
+  margin: 10px;
 }
 p,
 ul,
 table {
-  color: rgb(3, 85, 3);
+  color: rgb(25, 34, 25);
+}
+#foo p {
+  color: rgb(173, 39, 153);
 }
